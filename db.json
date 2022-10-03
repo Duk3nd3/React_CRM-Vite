@@ -1,12 +1,86 @@
 {
-  "clientes": [
-    {
-      "nombre": "Sofi",
-      "empresa": "Estudio Contable",
-      "email": "sofi_87@gmail.com",
-      "telefono": "155932891",
-      "notas": "La cliente esta interesada en una web app contable.",
-      "id": 1
-    }
-  ]
+	"clientes": [
+		{
+			"id": 1,
+			"nombre": "Leanne Graham",
+			"email": "Sincere@april.biz",
+			"telefono": "1-770-736-8031 x56442",
+			"empresa": "Romaguera-Crona",
+			"notas": "Multi-layered client-server neural-net"
+		},
+		{
+			"id": 2,
+			"nombre": "Ervin Howell",
+			"email": "Shanna@melissa.tv",
+			"telefono": "010-692-6593 x09125",
+			"empresa": "Deckow-Crist",
+			"notas": "Proactive didactic contingency"
+		},
+		{
+			"id": 3,
+			"nombre": "Clementine Bauch",
+			"email": "Nathan@yesenia.net",
+			"telefono": "1-463-123-4447",
+			"empresa": "Romaguera-Jacobson",
+			"notas": "Face to face bifurcated interface"
+		},
+		{
+			"id": 4,
+			"nombre": "Patricia Lebsack",
+			"email": "Julianne.OConner@kory.org",
+			"telefono": "493-170-9623 x156",
+			"empresa": "Robel-Corkery",
+			"notas": "Multi-tiered zero tolerance productivity"
+		},
+		{
+			"id": 5,
+			"nombre": "Chelsey Dietrich",
+			"email": "Lucio_Hettinger@annie.ca",
+			"telefono": "(254)954-1289",
+			"empresa": "Keebler LLC",
+			"notas": "User-centric fault-tolerant solution"
+		},
+		{
+			"id": 6,
+			"nombre": "Mrs. Dennis Schulist",
+			"email": "Karley_Dach@jasper.info",
+			"telefono": "1-477-935-8478 x6430",
+			"empresa": "Considine-Lockman",
+			"notas": "Synchronised bottom-line interface"
+		},
+		{
+			"id": 7,
+			"nombre": "Kurtis Weissnat",
+			"email": "Telly.Hoeger@billy.biz",
+			"telefono": "210.067.6132",
+			"empresa": "Johns Group",
+			"notas": "Configurable multimedia task-force"
+		},
+		{
+			"id": 8,
+			"nombre": "Nicholas Runolfsdottir V",
+			"email": "Sherwood@rosamond.me",
+			"telefono": "586.493.6943 x140",
+			"empresa": "Abernathy Group",
+			"notas": "Implemented secondary concept"
+		},
+		{
+			"id": 9,
+			"nombre": "Glenna Reichert",
+			"email": "Chaim_McDermott@dana.io",
+			"telefono": "(775)976-6794 x41206",
+			"website": "conrad.com",
+			"empresa": "Yost and Sons",
+			"notas": "Switchable contextually-based project"
+		},
+		{
+			"id": 10,
+			"nombre": "Clementina DuBuque",
+			"email": "Rey.Padberg@karina.biz",
+			"telefono": "024-648-3804",
+			"website": "ambrose.net",
+			"empresa": "Hoeger LLC",
+			"notas": "Centralized empowering task-force"
+		}
+	]
 }
