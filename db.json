@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sofi",
+      "empresa": "Estudio Contable",
+      "email": "sofi_87@gmail.com",
+      "telefono": "155932891",
+      "notas": "La cliente esta interesada en una web app contable.",
+      "id": 1
+    }
+  ]
+}
